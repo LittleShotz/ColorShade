@@ -1,9 +1,0 @@
-<Solution>
-  <Folder Name="/src/">
-    <Project Path="src/ColorShade.Core/ColorShade.Core.csproj" />
-    <Project Path="src/ColorShade/ColorShade.csproj" />
-  </Folder>
-  <Folder Name="/tests/">
-    <Project Path="tests/ColorShade.Tests/ColorShade.Tests.csproj" />
-  </Folder>
-</Solution>

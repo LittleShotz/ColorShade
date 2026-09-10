@@ -1,9 +1,0 @@
-{
-  "schemaVersion": 1,
-  "presets": [
-    { "id": "balanced", "name": "Default / Balanced", "vibrance": 50, "brightness": 50, "builtIn": true },
-    { "id": "day", "name": "Rust Day Visibility", "vibrance": 65, "brightness": 55, "builtIn": true },
-    { "id": "night", "name": "Rust Night / High Gamma", "vibrance": 60, "brightness": 72, "builtIn": true },
-    { "id": "my-custom", "name": "My custom preset", "vibrance": 62, "brightness": 60, "builtIn": false }
-  ]
-}
